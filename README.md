@@ -1,2 +1,3 @@
 # DSCCSS
-IGNORE THE NODE MODULE FOLDER
+
+CSS Study Materials
